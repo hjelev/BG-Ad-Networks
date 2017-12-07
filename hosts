@@ -1,0 +1,8 @@
+# The following are Bulgarian ad networks hosts.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# AD SERVERS START HERE
+#
+127.0.0.1	server.adnet.bg
