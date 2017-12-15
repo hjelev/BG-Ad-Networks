@@ -5,13 +5,13 @@
 #
 # AD SERVERS START HERE
 #
-127.0.0.1	server.adnet.bg
-127.0.0.1	ad.bol.bg
-127.0.0.1	ad.orbitel.bg
-127.0.0.1	ads.dir.bg
-127.0.0.1	adv.abv.bg
-127.0.0.1	cnt.tyxo.bg
-127.0.0.1	counter.search.bg
-127.0.0.1	exchange.bg
-127.0.0.1	img3.zamunda.net
+127.0.0.1 server.adnet.bg
+127.0.0.1 ad.bol.bg
+127.0.0.1 ad.orbitel.bg
+127.0.0.1 ads.dir.bg
+127.0.0.1 adv.abv.bg
+127.0.0.1 cnt.tyxo.bg
+127.0.0.1 counter.search.bg
+127.0.0.1 exchange.bg
+127.0.0.1 img3.zamunda.net
 127.0.0.1 advertere.zamunda.net
