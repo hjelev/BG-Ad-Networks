@@ -1,28 +1,12 @@
-# The following are Bulgarian ad networks hosts.
-#
-127.0.0.1 localhost #IPv4 localhost
-::1 localhost #IPv6 localhost
-#
-# AD SERVERS START HERE
-#
-127.0.0.1 server.adnet.bg
-127.0.0.1 ad.bol.bg
-127.0.0.1 ad.orbitel.bg
-127.0.0.1 ads.dir.bg
-127.0.0.1 adv.abv.bg
-127.0.0.1 cnt.tyxo.bg
-127.0.0.1 counter.search.bg
-127.0.0.1 exchange.bg
-127.0.0.1 img3.zamunda.net
-127.0.0.1 advertere.zamunda.net
-127.0.0.1 ads.kaldata.com
 127.0.0.1 1bg.net
 127.0.0.1 a.abv.bg
 127.0.0.1 a.kik.bg
 127.0.0.1 a.moitepari.bg
 127.0.0.1 ad.bg.doubleclick.net
+127.0.0.1 ad.bol.bg
 127.0.0.1 ad.investor.bg
 127.0.0.1 ad.onmedia.bg
+127.0.0.1 ad.orbitel.bg
 127.0.0.1 ad.petel.bg
 127.0.0.1 ad.sbb.bg
 127.0.0.1 ad.zonabg.info
@@ -41,6 +25,7 @@
 127.0.0.1 ads.clubz.bg
 127.0.0.1 ads.delfin.bg
 127.0.0.1 ads.dir.bg
+127.0.0.1 ads.dir.bg
 127.0.0.1 ads.domainbg.com
 127.0.0.1 ads.fema-bg.com
 127.0.0.1 ads.fiat-bg.org
@@ -51,6 +36,7 @@
 127.0.0.1 ads.inews.bg
 127.0.0.1 ads.insmarket.bg
 127.0.0.1 ads.jenite.bg
+127.0.0.1 ads.kaldata.com
 127.0.0.1 ads.kanal3.bg
 127.0.0.1 ads.kidssports.bg
 127.0.0.1 ads.kozmetika-bg.com
@@ -95,6 +81,7 @@
 127.0.0.1 adsy.mail.bg
 127.0.0.1 adsys.insert.bg
 127.0.0.1 adv.abv.bg
+127.0.0.1 adv.abv.bg
 127.0.0.1 adv.alo.bg
 127.0.0.1 adv.famous.bg
 127.0.0.1 adv.marica.bg
@@ -105,6 +92,7 @@
 127.0.0.1 adv.technews.bg
 127.0.0.1 adv.wisdom.bg
 127.0.0.1 advert.technews.bg
+127.0.0.1 advertere.zamunda.net
 127.0.0.1 advertisement.bg
 127.0.0.1 aff.shopmania.bg
 127.0.0.1 affiliate.mymall.bg
@@ -140,6 +128,8 @@
 127.0.0.1 bms.xenium.bg
 127.0.0.1 bulgariabg.com
 127.0.0.1 cnt.tyxo.bg
+127.0.0.1 cnt.tyxo.bg
+127.0.0.1 counter.search.bg
 127.0.0.1 counter.search.bg
 127.0.0.1 darikspaceadbg.hit.gemius.pl
 127.0.0.1 dbg52463.moatads.com
@@ -148,6 +138,7 @@
 127.0.0.1 dirbg.hit.gemius.pl
 127.0.0.1 dynad.website.bg
 127.0.0.1 event.2leva.bg
+127.0.0.1 exchange.bg
 127.0.0.1 exchange.bg
 127.0.0.1 fbgdc.com
 127.0.0.1 gabg.hit.gemius.pl
@@ -187,6 +178,7 @@
 127.0.0.1 relay-bg.ads.httpool.com
 127.0.0.1 relay-bg.toboads.com
 127.0.0.1 reviveads.faktor.bg
+127.0.0.1 server.adnet.bg
 127.0.0.1 sportaladbg.hit.gemius.pl
 127.0.0.1 sportalbg.adocean.pl
 127.0.0.1 stat.netinfocompany.bg
